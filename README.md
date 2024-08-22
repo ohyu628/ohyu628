@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome+to+My+Github+:|)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=Hello!+Welcome+to+My+Github+😄" alt="Typing SVG">
+  </a>
+</p>
 
 <div align="center">
   <h2 style="font-size: 32px;">Tech Stack</h2>
