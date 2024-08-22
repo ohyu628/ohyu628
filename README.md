@@ -1,5 +1,4 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome+to+My+Github;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome+to+My+Github+:);)](https://git.io/typing-svg)
 
 <!--
 **ohyu628/ohyu628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
