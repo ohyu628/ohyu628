@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://spoqa.github.io/images/first-year-developers-tips/minions.gif" width="650" />
 </p>
-</p>
+
 
 
 <!--
